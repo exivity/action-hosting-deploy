@@ -14,7 +14,7 @@
 
 name: Deploy Preview with version
 
-on: pull_request_target
+on: pull_request
 
 jobs:
   preview:
